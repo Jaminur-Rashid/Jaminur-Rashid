@@ -7,3 +7,8 @@
 
 # WakaTime States
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jaminur_Rashid&layout=compact" alt="Jaminur_Rashid" /></p>
+
+## _Contributions:_
+ 
+(in the last 365 days, languages pie based on number of commits)
+![](./profile-3d-contrib/profile-season-animate.svg)
